@@ -24,7 +24,7 @@
         <jmeter
             jmeterhome="${jmeter-home}"
             resultlogdir="results/jtl">
-            <testplans dir="." includes="*.jmx"/>
+            <testplans dir="." includes="agileone.jmx"/>
             <property name="jmeter.save.saveservice.output_format" value="xml"/>
         </jmeter>
     </target>

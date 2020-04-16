@@ -36,7 +36,7 @@
           </elementProp>
           <stringProp name="HTTPSampler.domain">192.168.1.105</stringProp>
           <stringProp name="HTTPSampler.port"></stringProp>
-          <stringProp name="HTTPSampler.protocol"></stringProp>
+          <stringProp name="HTTPSampler.protocol">http</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
           <stringProp name="HTTPSampler.path"></stringProp>
           <boolProp name="HTTPSampler.image_parser">true</boolProp>
